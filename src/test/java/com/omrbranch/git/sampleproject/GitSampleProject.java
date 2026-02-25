@@ -14,6 +14,14 @@ public class GitSampleProject {
 
 	public void test3() {
 		System.out.println("Master test 3");
+	}
+
+	public void test4() {
+		System.out.println("Tester1 test 4");
+	}
+
+	public void test5() {
+		System.out.println("Tester1 test 5");
 
 	}
 
