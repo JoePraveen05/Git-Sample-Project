@@ -25,4 +25,19 @@ public class GitSampleProject {
 
 	}
 
+	public void test6() {
+		System.out.println("Tester2 test 4");
+
+	}
+
+	public void test7() {
+		System.out.println("Tester2 test 5");
+
+	}
+
+	public void test8() {
+		System.out.println("Tester2 test 6");
+
+	}
+
 }
